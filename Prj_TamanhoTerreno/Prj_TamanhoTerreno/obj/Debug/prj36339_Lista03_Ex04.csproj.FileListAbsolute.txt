@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\Eloisa\ETEC\prj36339_Lista03_Ex04\prj36339_Lista03_Ex04\bin\Debug\prj36339_Lista03_Ex04.exe.config
+C:\Users\Usuario\Desktop\Eloisa\ETEC\prj36339_Lista03_Ex04\prj36339_Lista03_Ex04\bin\Debug\prj36339_Lista03_Ex04.exe
+C:\Users\Usuario\Desktop\Eloisa\ETEC\prj36339_Lista03_Ex04\prj36339_Lista03_Ex04\bin\Debug\prj36339_Lista03_Ex04.pdb
+C:\Users\Usuario\Desktop\Eloisa\ETEC\prj36339_Lista03_Ex04\prj36339_Lista03_Ex04\obj\Debug\prj36339_Lista03_Ex04.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Eloisa\ETEC\prj36339_Lista03_Ex04\prj36339_Lista03_Ex04\obj\Debug\prj36339_Lista03_Ex04.exe
+C:\Users\Usuario\Desktop\Eloisa\ETEC\prj36339_Lista03_Ex04\prj36339_Lista03_Ex04\obj\Debug\prj36339_Lista03_Ex04.pdb
+C:\Users\Usuario\Desktop\Eloisa\prj36339_Lista03_Ex04\prj36339_Lista03_Ex04\bin\Debug\prj36339_Lista03_Ex04.exe.config
+C:\Users\Usuario\Desktop\Eloisa\prj36339_Lista03_Ex04\prj36339_Lista03_Ex04\bin\Debug\prj36339_Lista03_Ex04.exe
+C:\Users\Usuario\Desktop\Eloisa\prj36339_Lista03_Ex04\prj36339_Lista03_Ex04\bin\Debug\prj36339_Lista03_Ex04.pdb
+C:\Users\Usuario\Desktop\Eloisa\prj36339_Lista03_Ex04\prj36339_Lista03_Ex04\obj\Debug\prj36339_Lista03_Ex04.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Eloisa\prj36339_Lista03_Ex04\prj36339_Lista03_Ex04\obj\Debug\prj36339_Lista03_Ex04.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Eloisa\prj36339_Lista03_Ex04\prj36339_Lista03_Ex04\obj\Debug\prj36339_Lista03_Ex04.exe
+C:\Users\Usuario\Desktop\Eloisa\prj36339_Lista03_Ex04\prj36339_Lista03_Ex04\obj\Debug\prj36339_Lista03_Ex04.pdb
